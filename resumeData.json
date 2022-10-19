@@ -1,0 +1,103 @@
+[{
+    "basics": {
+        "name": "Mohamed Thariq",
+        "status": "Single",
+        "DOB": "02-05-1997",
+        "Gender": "Male",
+        "email": "mohamedthariq1997@gmail.com",
+        "phone": "91-9123596618",
+        "degree": "B.Tech/IT",
+        "website": "website URL",
+        "objective": "To obtain a responsible position in a pioneering and responsive team and contribute my skill to the development of the organization",
+        "summary": [
+            "Acquired 3years of experience in UI design and development of application",
+            "Expertise in HTML, CSS, Bootstrap, JavaScript.",
+            "Proficient in creating web pages as per the client's design",
+            "Commited to professionalism, highly organised, result-oriented with attention to detail."
+        ],
+        "location": {
+            "address": "46/19A Ptr Colony, Uthamapalayam, Theni.",
+            "postalCode": "04554",
+            "city": "Theni",
+            "country": "India",
+            "State": "TamilNadu"
+        },
+        "profiles": [{
+            "network": "LinkedIn",
+            "username": "Your username on this network",
+            "url": "A URL to your user profile page",
+            "githubId": "",
+            "githubUrl": ""
+        }]
+    },
+    "work": [{
+        "company-1": {
+            "company": "GP Strategies",
+            "position": "E-Learning Developer",
+            "website": "The URL for the employer's website",
+            "startDate": "2019-April",
+            "endDate": "2021-April",
+            "summary": "A one-sentence to one-paragraph summary of this employer or position",
+            "Projects": [{
+                "Technology used": "HTML5, CSS3, Jquery",
+                "detail": "ABBOTT - Medical Drug company created multiple E-Learning project consist of web pages for their emplyoee to know more about their medicine to marketing it."
+            }]
+        },
+        "company-2": {
+            "company": "Mindtree",
+            "position": "Software Engineer",
+            "website": "The URL for the employer's website",
+            "startDate": "2021-june",
+            "endDate": "Present",
+            "summary": "A one-sentence to one-paragraph summary of this employer or position",
+            "Projects": [{
+                "Technology used": "HTML5, CSS3, Jquery, JavaScript, Wordpress",
+                "detail": "SenoBright - Web application project for Healcare company developed for their patients to know more about their diagonis and their prescribtion."
+            }]
+        }
+    }],
+    "education": [{
+        "School": {
+            "institution": "NAHMMS",
+            "School Type": "State Board",
+            "area": "Cumbum",
+            "SSLC": "10th",
+            "SSLC Percentage": "84",
+            "SSLC year": "July-2012",
+            "HSC": "12th",
+            "HSC year": "May-2014",
+            "HSC Percentage": "83"
+        },
+        "College": {
+            "institution": "PSNACET",
+            "University": "Anna University",
+            "area": "Dindugul",
+            "studyType": "Fulltime",
+            "startDate": "July-2014",
+            "endDate": "May-2018",
+            "gpa": "71",
+            "degree": "Bachelor of Technology/B.Tech",
+            "major": "Information Technology/IT"
+        }
+    }],
+    "achievements": [
+        "Got third prize in 'Hardware Assemble' in PSNA College of Engineering, Dindugul",
+        "Attended Various workshop in IT fields",
+        "Conduct some Google student club Event in PSNACT college"
+    ],
+    "skills": [{
+        "Tools": "LMS, Visual Code",
+        "Language": "Javascript",
+        "keywords": [
+            "HTML, CSS, Bootstrap, Jquery, JavaScript, JSON"
+        ]
+    }],
+    "languages": [{
+        "language": "Tamil, English",
+        "fluency": "Tamil, English"
+    }],
+    "interests": [{
+        "name": "Cricket, Watching Movies, Basketball"
+    }],
+    "Conclusion": ["I heraby assure you that all the information furnished above are true and correct to the best of my knowledge."]
+}]
